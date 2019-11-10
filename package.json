@@ -1,0 +1,9 @@
+{
+	"framer": {
+		"id": "4edc5e0a-00d1-44ea-84be-d7051fcbee9f"
+	},
+	"peerDependencies": {
+		"framer": "^1"
+	},
+	"author": "Junho Yeo"
+}
